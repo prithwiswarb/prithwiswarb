@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prithwiswarb.
 - 👀 I’m interested in Full Stack Development using Django.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on FSD.
+- 💞️ I’m looking to collaborate on FSD and AI/ML.
 - 📫 How to reach me: prithwiswar.dgp@gmail.com
 
 <!---
